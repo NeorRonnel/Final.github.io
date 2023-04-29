@@ -9,6 +9,7 @@ body{
     border-color: rgb(245, 116, 29);
     border-width: 5px;
     border-radius: 30px;
+    font-family: "Times New Roman", Times, serif;
 }
 .btn2{
     font-size: 60px;
@@ -18,6 +19,7 @@ body{
     border-width: 5px;
     margin-top: 10px;
     border-radius: 30px;
+    font-family: "Times New Roman", Times, serif;
 }
 .btn3{
     font-size: 60px;
@@ -27,6 +29,7 @@ body{
     border-width: 5px;
     margin-top: 10px;
     border-radius: 30px;
+    font-family: "Times New Roman", Times, serif;
 }
 .btn4{
     font-size: 50px;
@@ -36,6 +39,7 @@ body{
     border-width: 5px;
     margin-top: 10px;
     border-radius: 30px;
+    font-family: "Times New Roman", Times, serif;
 }
 
 a{
