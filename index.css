@@ -5,7 +5,7 @@ body{
 .btn1{
     font-size: 60px;
     padding: 25px 40px;
-    background: rgb(237, 217, 161);
+    background: rgb(163, 136, 106);
     border-color: rgb(139, 209, 0);
     border-width: 5px;
     border-radius: 10px;
@@ -13,7 +13,7 @@ body{
 .btn2{
     font-size: 60px;
     padding: 25px 40px;
-    background: rgb(237, 217, 161);
+    background: rgb(163, 136, 106);
     border-color: rgb(139, 209, 0);
     border-width: 5px;
     margin-top: 10px;
@@ -22,7 +22,7 @@ body{
 .btn3{
     font-size: 60px;
     padding: 25px 40px;
-    background: rgb(237, 217, 161);
+    background: rgb(163, 136, 106);
     border-color: rgb(139, 209, 0);
     border-width: 5px;
     margin-top: 10px;
@@ -31,7 +31,7 @@ body{
 .btn4{
     font-size: 50px;
     padding: 25px 40px;
-    background: rgb(237, 217, 161);
+    background: rgb(163, 136, 106);
     border-color: rgb(139, 209, 0);
     border-width: 5px;
     margin-top: 10px;
