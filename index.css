@@ -1,11 +1,11 @@
 body{
     text-align: center;
-    background-color: rgb(255, 225, 173);
+    background-color: rgb(156, 156, 156);
 }
 .btn1{
     font-size: 60px;
     padding: 25px 40px;
-    background: rgb(255, 255, 14);
+    background: rgb(237, 217, 161);
     border-color: rgb(139, 209, 0);
     border-width: 5px;
     border-radius: 10px;
@@ -13,7 +13,7 @@ body{
 .btn2{
     font-size: 60px;
     padding: 25px 40px;
-    background: rgb(255, 255, 14);
+    background: rgb(237, 217, 161);
     border-color: rgb(139, 209, 0);
     border-width: 5px;
     margin-top: 10px;
@@ -22,7 +22,7 @@ body{
 .btn3{
     font-size: 60px;
     padding: 25px 40px;
-    background: rgb(255, 255, 14);
+    background: rgb(237, 217, 161);
     border-color: rgb(139, 209, 0);
     border-width: 5px;
     margin-top: 10px;
@@ -31,7 +31,7 @@ body{
 .btn4{
     font-size: 50px;
     padding: 25px 40px;
-    background: rgb(255, 255, 14);
+    background: rgb(237, 217, 161);
     border-color: rgb(139, 209, 0);
     border-width: 5px;
     margin-top: 10px;
