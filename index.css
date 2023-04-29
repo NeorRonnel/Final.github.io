@@ -8,7 +8,7 @@ body{
     background: rgb(163, 136, 106);
     border-color: rgb(245, 116, 29);
     border-width: 5px;
-    border-radius: 10px;
+    border-radius: 30px;
 }
 .btn2{
     font-size: 60px;
@@ -17,7 +17,7 @@ body{
     border-color: rgb(245, 116, 29);
     border-width: 5px;
     margin-top: 10px;
-    border-radius: 10px;
+    border-radius: 30px;
 }
 .btn3{
     font-size: 60px;
@@ -26,7 +26,7 @@ body{
     border-color: rgb(245, 116, 29);
     border-width: 5px;
     margin-top: 10px;
-    border-radius: 10px;
+    border-radius: 30px;
 }
 .btn4{
     font-size: 50px;
@@ -35,7 +35,7 @@ body{
     border-color: rgb(245, 116, 29);
     border-width: 5px;
     margin-top: 10px;
-    border-radius: 10px;
+    border-radius: 30px;
 }
 
 a{
